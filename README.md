@@ -1,5 +1,7 @@
 # 💫 About Me:
- B.Tech AIML student passionate about tech & innovation  <br>- 🌱 Currently learning Java, DSA, SQL and AI concepts  <br>- 🚀 Exploring AI Product Management and UI/UX  <br>- 🤝 Open to collaborating on creative and beginner projects  <br>- 💬 Ask me about AI tools, coding basics & productivity  <br>- ⚡ Fun fact: Half of my tabs are GitHub and the other half are tutorials 👀
+- B.Tech AIML Student | Java Learner | Exploring DSA & Development
+Passionate about Artificial Intelligence, Machine Learning, programming, and problem-solving. Currently enhancing my skills through coding practice and hands-on projects.
+Always eager to learn new technologies, build impactful solutions, and grow as a developer.✨
 
 
 ## 🌐 Socials:
